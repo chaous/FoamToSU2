@@ -1,0 +1,4 @@
+SOURCE = \
+foamToSU2.C \
+
+# sources
